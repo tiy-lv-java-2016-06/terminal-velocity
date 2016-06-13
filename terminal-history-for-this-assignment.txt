@@ -1,0 +1,11 @@
+commit ebe4a3f05027f8d5d7ee5e9d170fa8b3dd1c5353
+Author: Eduardo Jimenez <EddyJ@Eduardos-MacBook-Pro.local>
+Date:   Mon Jun 13 16:00:27 2016 -0700
+
+    Added the following files, each containing text inside at last
+
+commit bac09b74a17a1c2235c80756b964b96ca6ffee8a
+Author: Jeff <jeff@goproject100.com>
+Date:   Wed Jun 1 12:19:23 2016 -0700
+
+    Initial Commit

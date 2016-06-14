@@ -1,0 +1,2 @@
+Java path = /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+Javac path = Couldn't find 
